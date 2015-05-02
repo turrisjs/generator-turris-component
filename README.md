@@ -2,12 +2,11 @@
 
 > [Yeoman](http://yeoman.io) generator for Turris.js standalone ES6 React components
 
-
 ## About Turris.js
 
 Turris.js is a combination of existing libraries and tools that allows fast and simple creation of single page web applications using [ES6](http://www.ecma-international.org/publications/standards/Ecma-262.htm).  
 
-For more information please find the main generator in it's own [github repository](https://github.com/turrisjs/generator-turris).
+This is a generator for standalone components. For more information please find the main generator in it's own [github repository](https://github.com/turrisjs/generator-turris).
 
 ## Getting Started
 
