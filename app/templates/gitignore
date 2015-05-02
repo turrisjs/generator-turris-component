@@ -1,0 +1,16 @@
+# ignore node deps
+node_modules/
+
+# ignore compiled
+es5/
+ui-test/component.min.js
+ui-test/*.eot
+ui-test/*.woff*
+ui-test/*.ttf
+ui-test/*.svg
+
+# ignore tests and coverage report
+coverage/
+
+# ignore symlinks
+.editorconfig
