@@ -1,5 +1,7 @@
 // react
 import React from 'react';
+// store
+import <%= _.camelCase(name) %>Channel from './store';
 // template
 import Template from './template.jsx';
 
