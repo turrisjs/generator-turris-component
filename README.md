@@ -1,5 +1,7 @@
 # generator-turris-component
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 > [Yeoman](http://yeoman.io) generator for Turris.js standalone ES6 React components
 
 ## About Turris.js
